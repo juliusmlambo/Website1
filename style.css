@@ -11,7 +11,7 @@
         h3{margin-top: 0;font-family: cursive;color: mediumblue;margin-bottom: 0;}
         
         .head-center ul{list-style-type: none;margin: 20px;padding: 5px 40px;}
-        .head-center ul li{margin: 0;padding: 0;display:inline;background-color:mediumblue;padding: 10px;}
+        .head-center ul li{margin: 0;display:inline;background-color:mediumblue;padding: 10px;}
         .head-center ul li a{text-decoration: none;color: #ffffff;font-family: cursive;} 
         .head-center ul li:hover{background-color: orangered;color:mediumblue}
         .head-center{width:513px;float: left;background-color: #ffffff;height: 74px;}
@@ -46,3 +46,15 @@
         .copyright{font-size:12px;font-style: italic; color: thistle;float: right;position: relative;bottom: -170px;}
         .profile{width:200px;float:left;background-color: tomato;}
         .commnent{width:400px;float:left;background-color: greenyellow;}
+
+        .subscribe{margin: 0 auto;display: block;width:100%; background: orange;margin-bottom: -54px;font-family: cursive;}
+        .subscribe p{display: block;padding-left: 263px;font-size:22px}
+        .subscribe form{padding-left: 450px;margin-top: -13px;padding-bottom: 8px;}
+        .subscribe span{display: block;font-size: 10px;text-align: center;}
+        .email{width: 260px;height: 40px;border-radius: 3px;border-color: mediumblue;background: orangered}
+        .submit{width: 103px;height: 45px;border-radius: 3px;background: mediumblue;color: white;font-size: 18px;cursor: pointer;}
+
+        .tbls{width:100%;font-size: 18px; font-family: monospace}
+        .process{background: springgreen}
+        .pending{background: orange}
+        .cancelled{background: red}
